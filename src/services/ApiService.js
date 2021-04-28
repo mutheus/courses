@@ -1,4 +1,4 @@
-const api = './courses/.tw-db/api/react-cursos/';
+const api = 'http://localhost:3002/api/react-cursos/';
 
 export const ApiService = {
   get(endpoint) {
