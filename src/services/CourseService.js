@@ -1,6 +1,6 @@
 import { ApiService } from './ApiService';
 
-const endpoint = 'courses';
+const endpoint = 'courses.db';
 
 export const CourseService = {
   list() {
